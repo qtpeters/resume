@@ -1,5 +1,23 @@
 
 {
    "$schema": "http://json-schema.org/schema#",
-   "id": "https://github.com/qtpeters/resume/schema/resume.json"
+   "id": "https://github.com/qtpeters/resume/schema/resume.json",
+   "type": "object",
+   "properties": {
+      "name": {
+         "type": "string"
+      },
+      "address": {
+         "type": "string"
+      },
+      "phone": {
+         "type": "object",
+         "kind": {
+            "enum": [ "home", "work", "cell" ]
+         },
+         "number": {
+            "type": "integer"
+         }
+      }
+   }
 }
