@@ -1,0 +1,26 @@
+{
+   "name": "Quinn Peters",
+   "address": {
+      "street": "528 Fawns Walk",
+      "city": "Annapolis",
+      "state": "MD",
+      "zip": {
+         "5": 21409,
+         "+4": 6136
+      }
+   },
+   "phone_numbers": {
+      "cell": "787-508-1494"
+   },
+   "web_sites": {
+      "github": "https://github.com/qtpeters"
+   },
+   "work_experience": [{
+      "title": "Sr. Software Engineer",
+      "company": "Nissint Technologies",
+      "dates": {
+         "start": 1393833600,
+         "end": null
+      }
+   }]
+}
