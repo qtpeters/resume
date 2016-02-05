@@ -19,6 +19,9 @@ module.exports = ( function() {
 
          
          console.log( main ); 
+         fs.readir( folder, function( err, items ) {
+            
+         });
       });
    }
 }());
