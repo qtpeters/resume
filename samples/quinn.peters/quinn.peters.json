@@ -14,13 +14,5 @@
    },
    "web_sites": {
       "github": "https://github.com/qtpeters"
-   },
-   "work_experience": [{
-      "title": "Sr. Software Engineer",
-      "company": "Nissint Technologies",
-      "dates": {
-         "start": 1393833600,
-         "end": null
-      }
-   }]
+   }
 }
