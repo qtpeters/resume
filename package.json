@@ -1,0 +1,15 @@
+{
+  "name": "quinn-peters-resume",
+  "description": "The resume of Quinn Peters",
+  "repository": "git@github.com:qtpeters/resume.git",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-loader": "^7.1.2",
+    "css-loader": "^0.28.8",
+    "file-loader": "^1.1.6",
+    "html-webpack-plugin": "^2.30.1",
+    "style-loader": "^0.19.1",
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.0"
+  }
+}

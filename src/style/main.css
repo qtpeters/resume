@@ -1,0 +1,139 @@
+
+@font-face {
+   font-family: GlacialIndifference;
+   src: url( fonts/GlacialIndifference-Regular.otf ) format("opentype");
+}
+
+@font-face {
+   font-family: Exo;
+   src: url( fonts/Exo-Medium.otf ) format("opentype");
+}
+
+@font-face {
+   font-family: AlightyNesia;
+   src: url( fonts/Alighty-Nesia.ttf ) format("truetype");
+}
+
+
+body {
+  
+  /*
+
+  font-family: Exo;
+  font-family: AlightyNesia;
+  */
+
+  font-family: GlacialIndifference;
+}
+
+header {
+  display: flex;
+  flex-direction: column;
+  height: 30vh;
+  justify-content: center;
+  padding: 0vw 20vw 0vw 20vw;
+}
+
+/*.header-background {
+  background-color: rgba( 0, 0, 0, 0.3 );
+  box-shadow: 1px 1px 1px #ffffb0;
+}*/
+
+.header-background > h2 {
+  margin-top: 5px;
+  margin-right: 5px;
+  font-size: 2.5em;
+  text-align: right;
+  color: #ffffb0;
+  text-shadow: -2px 2px 3px black;
+}
+
+.header-background > h3 {
+  margin-right: 5px;
+  font-size: 1.5em;
+  text-align: right;
+  padding-right: 5px;
+  color: #ffffb0;
+  text-shadow: -2px 2px 3px black;
+}
+
+.header-background > p {
+  color: #ffffb0;
+  text-shadow: 1px 1px 1px black;
+  margin-left: 5px;
+}
+
+.header-background > p:last-child {
+  margin-bottom: 5px;
+}
+
+section {
+  display: flex;
+  flex-direction: row;
+  padding: 0vw 20vw 0vw 20vw;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+}
+
+div.section-content {
+  margin-left: 10px;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+}
+
+div.section-content > p {
+  text-align: justify;
+}
+
+ul {
+  margin-left: 15px;
+}
+
+li {
+  padding-bottom: 5px;
+}
+
+.first-element {
+  margin-top: 0px;
+}
+
+h5 {
+  color: #ffffb0;
+  font-size: 1.3em;
+  text-shadow: -2px 2px 3px black;
+}
+
+section > h4 {
+  width: 1%;
+  min-width: 10px;
+  background-color: black;
+}
+
+.dates-worked {
+  font-style: italic;
+  margin-bottom: 10px;
+}
+
+.header-text {
+  position: relative;
+  top: -25px;
+  left: -35px;
+  color: #ffffb0;
+  white-space: nowrap;
+  text-shadow: -2px 2px 3px black;
+  font-size: 2em;
+  display: block;
+  transform: rotate(90deg);
+  transform-origin: left bottom 0px;
+  /*-ms-transform: rotate(-90deg);
+  -moz-transform: rotate(-90deg);
+  -webkit-transform: rotate(-90deg);
+  -ms-transform-origin: right bottom 0;
+  -moz-transform-origin: right bottom 0;
+  -webkit-transform-origin: right bottom 0;*/
+}
+
+section > div {
+ width: 90%; 
+}
+
