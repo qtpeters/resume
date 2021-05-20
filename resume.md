@@ -2,33 +2,32 @@
 
 Washington DC-Baltimore Area
 
-```
-qtpeters.linkedin@gmail.com 443-485-
-linkedin.com/in/quinnpeters
-```
+[Email](mailto:quinn.t.peters@gmail.com)  
+[LinkedIn Profile](https://linkedin.com/in/quinnpeters)
+
 ## Summary
 
-I am foremost a Software Developer. However, I have lead integration, performed DevOps tasks and even spent
-enough time on test teams to truly understand and value what they bring to the table. If I had my way, I would
-always be doing full stack development work, starting at the data source through the enterprise layer and all the
-way to the user interface. I am currently acting as the subject matter expert for our overall UI strategy for my
-section of the enterprise at Ft. Meade. This involves developing a system that will allow several teams working on
-dozens of web applications to componentize and share web components and libraries to ultimately standardize
-and unify our user interfaces to simplify maintenance and provide continuity for our customer's user experience.
+I am foremost a Software Developer. However, I have lead integration, performed DevOps tasks and even spent enough time on test teams to truly understand and value what they bring to the table. If I had my way, I would always be doing full stack development work, starting at the data source through the enterprise layer and all the way to the user interface. I am currently acting as the subject matter expert for our overall UI strategy for my section of the enterprise at Ft. Meade. This involves developing a system that will allow several teams working on dozens of web applications to componentize and share web components and libraries to ultimately standardize and unify our user interfaces to simplify maintenance and provide continuity for our customer's user experience.
 
-I enjoy learning and working with new technologies and concepts. I believe in being a lifelong learner, who uses
-knowledge to improve my work, whether it pertains to software development, my relationships or my hobbies. My
-life goal is to become the greatest version of myself and I will never stop working for that. I thrive on productivity
-and thirst for results. I love working collaboratively. There is nothing more satisfying than attacking a problem or a
-set of problems with a good team.
+I enjoy learning and working with new technologies and concepts. I believe in being a lifelong learner, who uses knowledge to improve my work, whether it pertains to software development, my relationships or my hobbies. My life goal is to become the greatest version of myself and I will never stop working for that. I thrive on productivity and thirst for results. I love working collaboratively. There is nothing more satisfying than attacking a problem or a set of problems with a good team.
 
 My most current skills, from most skilled to least are:
 * Software Development, Design and Engineering
 * Enterprise Java
-* Apache Products and Libraries
-* Karaf
+  * Spring libraries, such as: 
+    * Boot 
+    * Security 
+    * Web
+    * etc.
+  * Apache Products and Libraries such as 
+    * Tomcat ( Standalone and as components of Karaf and Boot )
+    * Karaf
+    * Jetty ( Standalone and as components of Karaf and Boot )
+    * Commons(3)
+    * etc.
+* Python 3 with libraries such as Flask, Requests, ldap3, etc.
 * Commons Libs
-* Eclipse and Eclim ( I'm a giant fan of Vim )
+* IntelliJ, VSCode, Eclipse and Eclim ( I'm a giant fan of Vim )
 * Maven, Gradle... Ant even.
 * Nexus, Artifactory and Archiva.
 * Java SE version 8. I have had a great opportunity to leverage Java 8 features in production recently.
