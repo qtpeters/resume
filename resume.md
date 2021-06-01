@@ -1,4 +1,4 @@
-# Quinn Peters - L3g0Th0rRul35Supr3m3!
+# Quinn Peters
 
 Washington DC-Baltimore Area
 
